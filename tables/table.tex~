@@ -1,0 +1,37 @@
+%--------------------------------------------------------------------------
+\begin{table}[!ht]
+\begin{center}
+\begin{tabular}{|l|c|c|}
+\hline
+Año &   Descubridor &   Ordenador utilizado &   Número de cifras decimales\\
+1949&   G.W. Reitwiesner y otros12 &   ENIAC &   2037\\
+1954 &     &   NORAC &   3092\\
+1959 &   Guilloud &   IBM 704 &   16 167\\
+1967 &     &   CDC 6600 &   500 000\\
+1973 &   Guillord y Bouyer12 &   CDC 7600 &   1 001 250\\
+1981 &   Miyoshi y Kanada12 &   FACOM M-200 &   2 000 036\\
+1982 &   Guilloud &     &   2 000 050\\
+1986 &   Bailey &   CRAY-2 &   29 360 111\\
+1986 &   Kanada y Tamura12 &   HITAC S-810/20 &   67 108 839\\
+1987 &   Kanada, Tamura, Kobo y otros &   NEC SX-2 &   134 217 700\\
+1988 &   Kanada y Tamura &   Hitachi S-820 &   201 326 000\\
+1989 &   Hermanos Chudnovsky &   CRAY-2 y IBM-3090/VF &   480 000 000\\
+1989 &   Hermanos Chudnovsky &   IBM 3090 &   1 011 196 691\\
+1991 &   Hermanos Chudnovsky &     &   2 260 000 000\\
+1994 &   Hermanos Chudnovsky &     &   4 044 000 000\\
+1995 &   Kanada y Takahashi &   HITAC S-3800/480 &   6 442 450 000\\
+1997 &   Kanada y Takahashi &   Hitachi SR2201 &   51 539 600 000\\
+1999 &   Kanada y Takahashi &   Hitachi SR8000 &   68 719 470 000\\
+1999 &   Kanada y Takahashi &   Hitachi SR8000 &   206 158 430 000\\
+2002 &   Kanada y otros12 [3] &   Hitachi SR8000/MP &   1 241 100 000 000\\
+2004 &   &   Hitachi &   1 351 100 000 000\\
+2009 &   Daisuke Takahashi13 &   T2K Tsukuba System &   2 576 980 370 000\\
+2009 &   Fabrice Bellard14 &   Core i7 CPU, 2.93 GHz; RAM: 6GiB &   2 699 999 990 000\\
+2010 &   Shigeru Kondo &   2 x Intel Xeon X5680, 3.33 GHz &   5 000 000 000 000\\
+2011 &   Shigeru Kondo &   &   10 000 000 000 000\\
+\end{tabular}
+\end{center}
+\caption{Mi primer cuadro de datos}
+\label{tab}
+\end{table}
+
